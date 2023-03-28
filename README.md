@@ -8,4 +8,4 @@
 ## Sobre a aplicação 
 - A aplicação consiste em um sistema de vários botões que a cada click ele toca um som diferente.
 
-<p> <img src ="images\Foto do programa.PNG" width="350"></p>
+Foto do programa.PNG

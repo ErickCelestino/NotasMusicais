@@ -8,4 +8,4 @@
 ## Sobre a aplicação 
 - A aplicação consiste em um sistema de vários botões que a cada click ele toca um som diferente.
 
-Foto do programa.PNG
+![Foto do programa](https://user-images.githubusercontent.com/99321670/228259807-99afe0b5-76c3-46a5-adfc-03c96446b416.PNG)
